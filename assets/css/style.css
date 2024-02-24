@@ -1224,3 +1224,15 @@ section {
   }
   
 }
+
+.university {
+  width: 96%;
+  text-align: left;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.university .right {
+  float: right;
+  text-align: right;
+}
