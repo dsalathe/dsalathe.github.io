@@ -605,6 +605,9 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #0563bb;
+  background-color: #eee;
+  border-radius: 3px;
+  border: 1px inset #0563bb;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1225,14 +1228,14 @@ section {
   
 }
 
-.university {
+.resume-company {
   width: 96%;
   text-align: left;
   font-style: italic;
   margin-bottom: 10px;
 }
 
-.university .right {
+.resume-company .right {
   float: right;
   text-align: right;
 }
